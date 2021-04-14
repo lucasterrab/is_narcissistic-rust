@@ -6,6 +6,9 @@ Here we are generating the first 25 narcissistic decimal numbers.
 
 ## Example
 if n is 153
+
 then m (the number of decimal digits) is 3
+
 we have 1³ + 5³ + 3³ = 1 + 125 + 27 = 153
+
 and so 153 is a narcissistic decimal number :)
